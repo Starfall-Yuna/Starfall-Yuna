@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Smary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starfall-Yuna&theme=monokai&show_icons=true)
+
 <!--
 **Starfall-Yuna/Starfall-Yuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
