@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![Smary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starfall-Yuna&theme=monokai&show_icons=true)
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
 
 <!--
 **Starfall-Yuna/Starfall-Yuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
