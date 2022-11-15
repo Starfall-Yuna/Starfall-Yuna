@@ -1,8 +1,8 @@
-### Lee_Yuna (Smary) 👋
+### Lee_Yuna 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyn99730)](https://solved.ac/lyn99730/)
-<br>
 ![Smary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starfall-Yuna&theme=monokai&show_icons=true)
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyn99730)](https://solved.ac/lyn99730/)
 
 <!--
 **Starfall-Yuna/Starfall-Yuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
