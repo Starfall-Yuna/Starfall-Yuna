@@ -1,6 +1,5 @@
 ### Lee_Yuna 👋
 
-<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyn99730)](https://solved.ac/lyn99730/)
 
 <!--
